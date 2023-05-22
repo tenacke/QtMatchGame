@@ -1,3 +1,4 @@
 *.o
 *.app
 moc*
+.qmake.stash
