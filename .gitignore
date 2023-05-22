@@ -1,4 +1,8 @@
 *.o
 *.app
-moc*
+moc_*
 .qmake.stash
+*.pdf
+*.txt
+*.user
+
